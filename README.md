@@ -17,7 +17,7 @@ Fuel consumption rate spiked with peak values specifically in May 2021, Sept 202
 
 
 https://github.com/Eomoworare/Supply-Chain-Logistics-/blob/main/Slide1.JPG
-![Uploading image.png…]()
+
 
 
 
