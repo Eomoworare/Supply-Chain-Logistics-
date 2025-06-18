@@ -16,9 +16,9 @@ Equipment availability like forklifts dwindled all through the 4-year tenure wit
 Fuel consumption rate spiked with peak values specifically in May 2021, Sept 2022, Jan 2023 and May 2024.
 
 
-![Image] https://github.com/Eomoworare/Supply-Chain-Logistics-/blob/main/Slide1.JPG
+ https://github.com/Eomoworare/Supply-Chain-Logistics-/blob/main/Slide1.JPG
 
-
+https://github.com/Eomoworare/Supply-Chain-Logistics-/commit/748ddab72cdeec9b86d9730fedad719880602d7d
 
 
 
@@ -37,5 +37,6 @@ Fuel consumption rate was highest in Q3 2022 at the rate of 18.07k
  Shipping costs per risk category per year revealed the high-risk tier recorded the highest values being 5,986.00
 
 
-![Image] https://github.com/Eomoworare/Supply-Chain-Logistics-/blob/main/Slide2.JPG
+https://github.com/Eomoworare/Supply-Chain-Logistics-/blob/main/Slide2.JPG
 
+https://github.com/Eomoworare/Supply-Chain-Logistics-/commit/748ddab72cdeec9b86d9730fedad719880602d7d
