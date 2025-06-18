@@ -9,7 +9,7 @@ Equipment availability like forklifts dwindled all through the 4-year tenure wit
 Fuel consumption rate spiked with peak values specifically in May 2021, Sept 2022, Jan 2023 and May 2024.
 
 
- ![Uploading image.png…]()
+
 
 
 Condition status of the cargo from monitoring was poor with a value of 0.15 which is less than the acceptable value of 1.
@@ -22,6 +22,4 @@ Fuel consumption rate was highest in Q3 2022 at the rate of 18.07k
 
 
 
-
-![Uploading image.png…]()
 
