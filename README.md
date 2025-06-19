@@ -16,10 +16,9 @@ Equipment availability like forklifts dwindled all through the 4-year tenure wit
 Fuel consumption rate spiked with peak values specifically in May 2021, Sept 2022, Jan 2023 and May 2024.
 
 
-![Uploading Slide1.JPG…]()
+![Image](https://github.com/user-attachments/assets/43e8b002-6724-4078-a763-2759e5cb851b)
 
 
-https://github.com/Eomoworare/Supply-Chain-Logistics-/commit/748ddab72cdeec9b86d9730fedad719880602d7d
 
 
 
