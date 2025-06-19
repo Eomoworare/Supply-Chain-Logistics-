@@ -20,8 +20,6 @@ Fuel consumption rate spiked with peak values specifically in May 2021, Sept 202
 
 
 
-
-
 Condition status of the cargo from monitoring was poor with a value of 0.15 which is less than the acceptable value of 1.
 
  A disruption likelihood score of 0.96 was recorded which is fair based on the rating 0 to 1.
@@ -37,6 +35,5 @@ Fuel consumption rate was highest in Q3 2022 at the rate of 18.07k
  Shipping costs per risk category per year revealed the high-risk tier recorded the highest values being 5,986.00
 
 
-https://github.com/Eomoworare/Supply-Chain-Logistics-/blob/main/Slide2.JPG
+![Slide2](https://github.com/user-attachments/assets/d3cd605f-b564-41ec-b6ab-3549faf2ed42)
 
-https://github.com/Eomoworare/Supply-Chain-Logistics-/commit/748ddab72cdeec9b86d9730fedad719880602d7d
